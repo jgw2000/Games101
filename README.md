@@ -8,6 +8,8 @@
 - 透视投影变换
 
 ## Assignment 2
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment2/image1.png)
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment2/image2.png)
 
 实现功能
 - 三角形光栅化
