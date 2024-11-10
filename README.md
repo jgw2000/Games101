@@ -15,3 +15,13 @@
 - 三角形光栅化
 - z-buffer 算法
 - super-sampling 反走样算法
+
+## Assignment 3
+
+实现功能
+- 重心坐标计算
+- 透视正确插值
+- Lambertian 漫反射
+- Blinn-Phong 镜面反射
+- Bump Mapping
+- Displacement Mapping
