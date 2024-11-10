@@ -30,3 +30,11 @@
 - Blinn-Phong 镜面反射
 - Bump Mapping
 - Displacement Mapping
+
+## Assignment 4
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment4/image1.png)
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment4/image2.png)
+
+实现功能
+- Bezier 曲线
+- De Casteljau 算法
