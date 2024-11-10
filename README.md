@@ -17,6 +17,11 @@
 - super-sampling 反走样算法
 
 ## Assignment 3
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment3/image1.png)
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment3/image2.png)
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment3/image3.png)
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment3/image4.png)
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment3/image5.png)
 
 实现功能
 - 重心坐标计算
