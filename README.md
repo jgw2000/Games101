@@ -45,3 +45,10 @@
 实现功能
 - Ray Tracing 光线生成
 - 光线与三角形相交 Moller-Trumbore 算法
+
+## Assignment 5
+![image](https://github.com/jgw2000/Games101/blob/main/Assignment6/image.png)
+
+实现功能
+- 光线与包围盒 AABB 求交
+- BVH 加速的光线与场景求交
