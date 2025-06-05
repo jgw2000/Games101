@@ -46,7 +46,7 @@
 - Ray Tracing 光线生成
 - 光线与三角形相交 Moller-Trumbore 算法
 
-## Assignment 5
+## Assignment 6
 ![image](https://github.com/jgw2000/Games101/blob/main/Assignment6/image.png)
 
 实现功能
